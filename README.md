@@ -1,16 +1,30 @@
-### Hi there 👋
+let name = "Evelyn" let lastname = "Medina"
 
-<!--
-**eve15312/eve15312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Holii 🖤
 
-Here are some ideas to get you started:
+Como sabrán, me destacó en el mundo de la programación💻!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En mi caso, es un mundo dónde consideró tener varias sensaciones y ser capaz de mucho más! 
+Enfoca mi mente, me hace trabajar duro sin rendirme, al punto de no escuchar el rechazo y poder lograr cualquier situacion que me presenta la vida! Así me hace sentir la programación 🦾
+
+Por eso me siento capaz de desarrollar las habilidades que demanda el mercado📈
+
+Actualmente me encuentro en la búsqueda de nuevos desafíos, donde pueda demostrar mis conocimientos, poner a prueba mis habilidades y seguir creciendo, aprendiendo día a día, desafiándome a mí mismo.👩‍💻
+
+Estas son algunas de las tecnologías que he estado usando hasta ahora:
+
+✔️HTML-CSS-JavaScript
+
+✔️Reaccionar Js - Redux
+
+✔️Nodo Js - Express
+
+✔️Secuela - PostgresSQL
+
+✔️Git - Github
+
+☕Ponerse en contacto
+
+👁‍🗨LinkedIn:https://www.linkedin.com/in/daniela-evelyn-m-a9611b231/
+
+👁‍🗨Correo electrónico: eve15312@gmail.com
